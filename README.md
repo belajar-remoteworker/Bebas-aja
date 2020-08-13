@@ -1,2 +1,3 @@
 # bebas-aja
-Perubahan kode dilacak oleh Git
+Perubahan kode dilacak oleh git
+
